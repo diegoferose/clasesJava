@@ -13,7 +13,7 @@ public class Ciclos {
             }
        }
        if (contadorDeDivisibles<=2){
-           System.out.println(i+"");
+           System.out.println(i+"r");
        }
 
    }
